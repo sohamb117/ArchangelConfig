@@ -1,0 +1,44 @@
+[options]
+font = Fira Code 10
+cursor_blink = on
+clickable_url = true
+
+[colors]
+foreground = rgb(234, 242, 239)
+foreground_bold = #28AFBA
+background = rgba(0, 0, 0, 0.5)
+
+cursor = #EAF2EF
+cursor_foreground = #EAF2EF
+highlight = #004d84
+TERM=xterm-256color
+
+color0 = #000000
+color1 = #A8201A
+color2 = #CFCFEA
+color3 = #73628a
+color4 = #645991
+color5 = #8880af
+color6 = #b3aecc
+color7 = #EAF2EF
+color8 = #8880af
+color9 = #51355a
+color10 =  #EAF2EF
+color11 = #e49ac5
+color12 = #7d8ca3
+color13 = #7fba9f
+color14 = #669BBC
+color15 = rgb(234,242,239)
+
+
+
+
+
+
+
+
+
+
+
+
+
