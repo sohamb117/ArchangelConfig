@@ -1,0 +1,7 @@
+configuration {
+ modi: "window,drun,ssh,combi";
+ theme: "arc-dark";
+ font: "Fira Sans 11";
+terminal: "termite";
+ combi-modi: "window,drun,ssh";
+ }
